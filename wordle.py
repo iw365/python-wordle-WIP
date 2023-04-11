@@ -1,7 +1,5 @@
 # the AI is experimental, it knows which letters to avoid but does not know how to place letters that are in the word
 
-# The AI was working but doesnt anymore :(
-
 #import stuff
 import time
 import re
